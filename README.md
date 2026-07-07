@@ -1,6 +1,6 @@
 # Telegram Session Generator
 
-A Google Colab notebook to generate Telegram session strings for Pyrogram, Pyrofork, Pyrotgfork, and Telethon.
+A Google Colab notebook to generate Telegram session strings for wzgram, Pyrogram, Pyrofork, Pyrotgfork, and Telethon.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rjriajul/session/blob/main/user_tgsess.ipynb)
 
